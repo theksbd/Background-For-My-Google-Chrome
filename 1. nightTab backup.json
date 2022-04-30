@@ -4837,7 +4837,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -4881,7 +4881,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -4923,7 +4923,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -4967,7 +4967,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5009,7 +5009,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5051,7 +5051,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5104,7 +5104,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5148,7 +5148,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5192,7 +5192,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5236,7 +5236,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5280,7 +5280,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5324,7 +5324,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5368,7 +5368,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5419,7 +5419,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5463,7 +5463,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5505,7 +5505,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5517,6 +5517,52 @@
           "border": 0,
           "shape": { "wide": false, "tall": false },
           "timestamp": 1647855579748
+        },
+        {
+          "url": "https://hidevs.net/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": { "x": 0, "y": 0 },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Learning Center - HiDevs",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 25,
+              "letter": { "text": "" },
+              "icon": { "name": "book", "prefix": "fas", "label": "book" },
+              "image": { "url": "" },
+              "shadow": { "size": 0 }
+            }
+          },
+          "accent": {
+            "by": "theme",
+            "hsl": { "h": 0, "s": 0, "l": 0 },
+            "rgb": { "r": 0, "g": 0, "b": 0 }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": { "h": 0, "s": 0, "l": 0 },
+            "rgb": { "r": 0, "g": 0, "b": 0 },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": { "url": "" },
+            "video": { "url": "" }
+          },
+          "border": 0,
+          "shape": { "wide": false, "tall": false },
+          "timestamp": 1651335864302
         },
         {
           "url": "https://fullstack.edu.vn/",
@@ -5553,7 +5599,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5597,7 +5643,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5639,7 +5685,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5683,7 +5729,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5731,7 +5777,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5779,7 +5825,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5823,7 +5869,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5867,7 +5913,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5913,7 +5959,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -5955,7 +6001,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -6010,7 +6056,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -6054,7 +6100,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -6096,7 +6142,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -6140,7 +6186,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -6182,7 +6228,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
@@ -6226,7 +6272,7 @@
             "by": "theme",
             "hsl": { "h": 0, "s": 0, "l": 0 },
             "rgb": { "r": 0, "g": 0, "b": 0 },
-            "opacity": 20
+            "opacity": 25
           },
           "background": {
             "show": false,
