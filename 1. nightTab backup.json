@@ -5519,6 +5519,50 @@
           "timestamp": 1647855579748
         },
         {
+          "url": "https://scrimba.com/dashboard",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": { "x": 0, "y": 0 },
+            "gutter": 25,
+            "name": { "show": true, "text": "Scrimba", "size": 7 },
+            "visual": {
+              "show": true,
+              "type": "image",
+              "size": 25,
+              "letter": { "text": "" },
+              "icon": { "name": "", "prefix": "", "label": "" },
+              "image": {
+                "url": "https://scontent.fsgn5-14.fna.fbcdn.net/v/t1.6435-9/134994574_629120361163575_6971467168881091713_n.png?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=zbjvOmzpICAAX_-GXY1&_nc_ht=scontent.fsgn5-14.fna&oh=00_AT8FJSOjtZH3UHsk50dHh4syXn5mVlBlyiRQqvYA8o_ZeQ&oe=62ABC326"
+              },
+              "shadow": { "size": 0 }
+            }
+          },
+          "accent": {
+            "by": "theme",
+            "hsl": { "h": 0, "s": 0, "l": 0 },
+            "rgb": { "r": 0, "g": 0, "b": 0 }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": { "h": 0, "s": 0, "l": 0 },
+            "rgb": { "r": 0, "g": 0, "b": 0 },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": { "url": "" },
+            "video": { "url": "" }
+          },
+          "border": 0,
+          "shape": { "wide": false, "tall": false },
+          "timestamp": 1652963321515
+        },
+        {
           "url": "https://hidevs.net/",
           "display": {
             "alignment": "center-center",
