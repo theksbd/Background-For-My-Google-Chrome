@@ -124,7 +124,7 @@
         "size": 100,
         "newLine": false,
         "newTab": true,
-        "string": " "
+        "string": ""
       },
       "order": ["greeting", "clock", "date", "search", "toolbar"],
       "edit": false
@@ -9943,6 +9943,87 @@
       },
       "timestamp": 1717848189754
     }, {
+      "url": "https://chat.zalo.me/",
+      "display": {
+        "alignment": "center-center",
+        "direction": "vertical",
+        "order": "visual-name",
+        "rotate": 0,
+        "translate": {
+          "x": 0,
+          "y": 0
+        },
+        "gutter": 25,
+        "name": {
+          "show": true,
+          "text": "Zalo",
+          "size": 7
+        },
+        "visual": {
+          "show": true,
+          "type": "image",
+          "size": 25,
+          "letter": {
+            "text": ""
+          },
+          "icon": {
+            "name": "",
+            "prefix": "",
+            "label": "zalo"
+          },
+          "image": {
+            "url": "https://stc-zaloprofile.zdn.vn/pc/v1/images/zalo_sharelogo.png"
+          },
+          "shadow": {
+            "size": 0
+          }
+        }
+      },
+      "accent": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      "color": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "opacity": 25
+      },
+      "background": {
+        "show": false,
+        "type": "image",
+        "opacity": 100,
+        "image": {
+          "url": ""
+        },
+        "video": {
+          "url": ""
+        }
+      },
+      "border": 0,
+      "shape": {
+        "wide": false,
+        "tall": false
+      },
+      "timestamp": 1643213476157
+    }, {
       "url": "https://www.threads.net/",
       "display": {
         "alignment": "center-center",
@@ -10186,87 +10267,6 @@
       },
       "timestamp": 1662362484599
     }, {
-      "url": "https://www.youtube.com/",
-      "display": {
-        "alignment": "center-center",
-        "direction": "vertical",
-        "order": "visual-name",
-        "rotate": 0,
-        "translate": {
-          "x": 0,
-          "y": 0
-        },
-        "gutter": 25,
-        "name": {
-          "show": true,
-          "text": "Youtube",
-          "size": 7
-        },
-        "visual": {
-          "show": true,
-          "type": "image",
-          "size": 25,
-          "letter": {
-            "text": ""
-          },
-          "icon": {
-            "name": "",
-            "prefix": "",
-            "label": ""
-          },
-          "image": {
-            "url": "https://www.youtube.com/s/desktop/eeb6f668/img/favicon_144x144.png"
-          },
-          "shadow": {
-            "size": 0
-          }
-        }
-      },
-      "accent": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        }
-      },
-      "color": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        },
-        "opacity": 25
-      },
-      "background": {
-        "show": false,
-        "type": "image",
-        "opacity": 100,
-        "image": {
-          "url": ""
-        },
-        "video": {
-          "url": ""
-        }
-      },
-      "border": 0,
-      "shape": {
-        "wide": false,
-        "tall": false
-      },
-      "timestamp": 1643213302131
-    }, {
       "url": "https://discord.com/channels/@me",
       "display": {
         "alignment": "center-center",
@@ -10348,7 +10348,7 @@
       },
       "timestamp": 1659780673344
     }, {
-      "url": "https://chat.zalo.me/",
+      "url": "https://www.youtube.com/",
       "display": {
         "alignment": "center-center",
         "direction": "vertical",
@@ -10361,7 +10361,7 @@
         "gutter": 25,
         "name": {
           "show": true,
-          "text": "Zalo",
+          "text": "Youtube",
           "size": 7
         },
         "visual": {
@@ -10374,10 +10374,10 @@
           "icon": {
             "name": "",
             "prefix": "",
-            "label": "zalo"
+            "label": ""
           },
           "image": {
-            "url": "https://stc-zaloprofile.zdn.vn/pc/v1/images/zalo_sharelogo.png"
+            "url": "https://www.youtube.com/s/desktop/eeb6f668/img/favicon_144x144.png"
           },
           "shadow": {
             "size": 0
@@ -10427,7 +10427,7 @@
         "wide": false,
         "tall": false
       },
-      "timestamp": 1643213476157
+      "timestamp": 1643213302131
     }, {
       "url": "https://animetvn4.com/",
       "display": {
@@ -11432,87 +11432,6 @@
       },
       "timestamp": 1680450644606
     }, {
-      "url": "https://react-online-dictionary.vercel.app/",
-      "display": {
-        "alignment": "center-center",
-        "direction": "vertical",
-        "order": "visual-name",
-        "rotate": 0,
-        "translate": {
-          "x": 0,
-          "y": 0
-        },
-        "gutter": 25,
-        "name": {
-          "show": true,
-          "text": "My Online Dictionary",
-          "size": 7
-        },
-        "visual": {
-          "show": true,
-          "type": "icon",
-          "size": 25,
-          "letter": {
-            "text": ""
-          },
-          "icon": {
-            "name": "book",
-            "prefix": "fas",
-            "label": "book"
-          },
-          "image": {
-            "url": ""
-          },
-          "shadow": {
-            "size": 0
-          }
-        }
-      },
-      "accent": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        }
-      },
-      "color": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        },
-        "opacity": 25
-      },
-      "background": {
-        "show": false,
-        "type": "image",
-        "opacity": 100,
-        "image": {
-          "url": ""
-        },
-        "video": {
-          "url": ""
-        }
-      },
-      "border": 0,
-      "shape": {
-        "wide": false,
-        "tall": false
-      },
-      "timestamp": 1674373586136
-    }, {
       "url": "https://quillbot.com/",
       "display": {
         "alignment": "center-center",
@@ -11593,6 +11512,87 @@
         "tall": false
       },
       "timestamp": 1646793847552
+    }, {
+      "url": "https://react-online-dictionary.vercel.app/",
+      "display": {
+        "alignment": "center-center",
+        "direction": "vertical",
+        "order": "visual-name",
+        "rotate": 0,
+        "translate": {
+          "x": 0,
+          "y": 0
+        },
+        "gutter": 25,
+        "name": {
+          "show": true,
+          "text": "My Online Dictionary",
+          "size": 7
+        },
+        "visual": {
+          "show": true,
+          "type": "icon",
+          "size": 25,
+          "letter": {
+            "text": ""
+          },
+          "icon": {
+            "name": "book",
+            "prefix": "fas",
+            "label": "book"
+          },
+          "image": {
+            "url": ""
+          },
+          "shadow": {
+            "size": 0
+          }
+        }
+      },
+      "accent": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      "color": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "opacity": 25
+      },
+      "background": {
+        "show": false,
+        "type": "image",
+        "opacity": 100,
+        "image": {
+          "url": ""
+        },
+        "video": {
+          "url": ""
+        }
+      },
+      "border": 0,
+      "shape": {
+        "wide": false,
+        "tall": false
+      },
+      "timestamp": 1674373586136
     }]
   }, {
     "name": {
@@ -11853,7 +11853,7 @@
       },
       "timestamp": 1678936521268
     }, {
-      "url": "https://doc.clickup.com/37465296/p/h/13qb6g-344/4690a29e7e403e6/13qb6g-344",
+      "url": "https://css-beauty.vercel.app/loader",
       "display": {
         "alignment": "center-center",
         "direction": "vertical",
@@ -11866,7 +11866,7 @@
         "gutter": 25,
         "name": {
           "show": true,
-          "text": "Developer's Handbook",
+          "text": "CSS Beauty",
           "size": 7
         },
         "visual": {
@@ -11882,7 +11882,7 @@
             "label": ""
           },
           "image": {
-            "url": "https://app-cdn.clickup.com/assets/favicons/favicon-32x32.png"
+            "url": "https://css-beauty.vercel.app/favicon.png"
           },
           "shadow": {
             "size": 0
@@ -11932,7 +11932,7 @@
         "wide": false,
         "tall": false
       },
-      "timestamp": 1673676798404
+      "timestamp": 1672930765861
     }, {
       "url": "https://uiverse.io/all",
       "display": {
@@ -12015,7 +12015,7 @@
       },
       "timestamp": 1687264673131
     }, {
-      "url": "https://css-beauty.vercel.app/loader",
+      "url": "https://doc.clickup.com/37465296/p/h/13qb6g-344/4690a29e7e403e6/13qb6g-344",
       "display": {
         "alignment": "center-center",
         "direction": "vertical",
@@ -12028,7 +12028,7 @@
         "gutter": 25,
         "name": {
           "show": true,
-          "text": "CSS Beauty",
+          "text": "Developer's Handbook",
           "size": 7
         },
         "visual": {
@@ -12044,7 +12044,7 @@
             "label": ""
           },
           "image": {
-            "url": "https://css-beauty.vercel.app/favicon.png"
+            "url": "https://app-cdn.clickup.com/assets/favicons/favicon-32x32.png"
           },
           "shadow": {
             "size": 0
@@ -12094,7 +12094,7 @@
         "wide": false,
         "tall": false
       },
-      "timestamp": 1672930765861
+      "timestamp": 1673676798404
     }, {
       "url": "https://www.colorion.co/",
       "display": {
