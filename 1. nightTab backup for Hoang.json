@@ -13196,87 +13196,6 @@
       },
       "timestamp": 1684080835030
     }, {
-      "url": "https://dixgames.com/",
-      "display": {
-        "alignment": "center-center",
-        "direction": "vertical",
-        "order": "visual-name",
-        "rotate": 0,
-        "translate": {
-          "x": 0,
-          "y": 0
-        },
-        "gutter": 25,
-        "name": {
-          "show": true,
-          "text": "Dixgames",
-          "size": 7
-        },
-        "visual": {
-          "show": true,
-          "type": "image",
-          "size": 25,
-          "letter": {
-            "text": ""
-          },
-          "icon": {
-            "name": "",
-            "prefix": "",
-            "label": ""
-          },
-          "image": {
-            "url": "https://dixgames.com/wp-content/uploads/fbrfg/favicon.ico"
-          },
-          "shadow": {
-            "size": 0
-          }
-        }
-      },
-      "accent": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        }
-      },
-      "color": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        },
-        "opacity": 25
-      },
-      "background": {
-        "show": false,
-        "type": "image",
-        "opacity": 100,
-        "image": {
-          "url": ""
-        },
-        "video": {
-          "url": ""
-        }
-      },
-      "border": 0,
-      "shape": {
-        "wide": false,
-        "tall": false
-      },
-      "timestamp": 1643215188798
-    }, {
       "url": "https://tamhongame.com/",
       "display": {
         "alignment": "center-center",
@@ -13358,7 +13277,7 @@
       },
       "timestamp": 1687251395713
     }, {
-      "url": "https://vkgamestore.blogspot.com/",
+      "url": "https://hadoantv.com/",
       "display": {
         "alignment": "center-center",
         "direction": "vertical",
@@ -13371,7 +13290,7 @@
         "gutter": 25,
         "name": {
           "show": true,
-          "text": "VKGAMESTORE",
+          "text": "HaDoanTV",
           "size": 7
         },
         "visual": {
@@ -13387,7 +13306,7 @@
             "label": ""
           },
           "image": {
-            "url": "https://vkgamestore.blogspot.com/favicon.ico"
+            "url": "https://hadoantv.com/wp-content/uploads/2020/11/safari.ico"
           },
           "shadow": {
             "size": 0
@@ -13437,7 +13356,7 @@
         "wide": false,
         "tall": false
       },
-      "timestamp": 1643215251065
+      "timestamp": 1643215359322
     }, {
       "url": "https://www.linktaigame.com/",
       "display": {
@@ -13520,7 +13439,7 @@
       },
       "timestamp": 1643215299974
     }, {
-      "url": "https://hadoantv.com/",
+      "url": "https://vkgamestore.blogspot.com/",
       "display": {
         "alignment": "center-center",
         "direction": "vertical",
@@ -13533,7 +13452,7 @@
         "gutter": 25,
         "name": {
           "show": true,
-          "text": "HaDoanTV",
+          "text": "VKGAMESTORE",
           "size": 7
         },
         "visual": {
@@ -13549,7 +13468,7 @@
             "label": ""
           },
           "image": {
-            "url": "https://hadoantv.com/wp-content/uploads/2020/11/safari.ico"
+            "url": "https://vkgamestore.blogspot.com/favicon.ico"
           },
           "shadow": {
             "size": 0
@@ -13599,7 +13518,7 @@
         "wide": false,
         "tall": false
       },
-      "timestamp": 1643215359322
+      "timestamp": 1643215251065
     }, {
       "url": "https://igg-games.com/",
       "display": {
