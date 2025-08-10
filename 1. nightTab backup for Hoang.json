@@ -10348,6 +10348,87 @@
       },
       "timestamp": 1659780673344
     }, {
+      "url": "https://shopee.vn/",
+      "display": {
+        "alignment": "center-center",
+        "direction": "vertical",
+        "order": "visual-name",
+        "rotate": 0,
+        "translate": {
+          "x": 0,
+          "y": 0
+        },
+        "gutter": 25,
+        "name": {
+          "show": true,
+          "text": "Shopee",
+          "size": 7
+        },
+        "visual": {
+          "show": true,
+          "type": "image",
+          "size": 25,
+          "letter": {
+            "text": ""
+          },
+          "icon": {
+            "name": "",
+            "prefix": "",
+            "label": ""
+          },
+          "image": {
+            "url": "https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/icon_favicon_1_96.1ce0e05fc18a86e5.png"
+          },
+          "shadow": {
+            "size": 0
+          }
+        }
+      },
+      "accent": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      "color": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "opacity": 25
+      },
+      "background": {
+        "show": false,
+        "type": "image",
+        "opacity": 100,
+        "image": {
+          "url": ""
+        },
+        "video": {
+          "url": ""
+        }
+      },
+      "border": 0,
+      "shape": {
+        "wide": false,
+        "tall": false
+      },
+      "timestamp": 1754826677091
+    }, {
       "url": "https://www.youtube.com/",
       "display": {
         "alignment": "center-center",
@@ -10428,6 +10509,87 @@
         "tall": false
       },
       "timestamp": 1643213302131
+    }, {
+      "url": "https://vebo.tv/home",
+      "display": {
+        "alignment": "center-center",
+        "direction": "vertical",
+        "order": "visual-name",
+        "rotate": 0,
+        "translate": {
+          "x": 0,
+          "y": 0
+        },
+        "gutter": 25,
+        "name": {
+          "show": true,
+          "text": "VeboTV",
+          "size": 7
+        },
+        "visual": {
+          "show": true,
+          "type": "image",
+          "size": 25,
+          "letter": {
+            "text": ""
+          },
+          "icon": {
+            "name": "",
+            "prefix": "",
+            "label": ""
+          },
+          "image": {
+            "url": "https://static.90pcdn.com/static/img/favicon.png"
+          },
+          "shadow": {
+            "size": 0
+          }
+        }
+      },
+      "accent": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      "color": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "opacity": 25
+      },
+      "background": {
+        "show": false,
+        "type": "image",
+        "opacity": 100,
+        "image": {
+          "url": ""
+        },
+        "video": {
+          "url": ""
+        }
+      },
+      "border": 0,
+      "shape": {
+        "wide": false,
+        "tall": false
+      },
+      "timestamp": 1754826618846
     }, {
       "url": "https://animetvn4.com/",
       "display": {
@@ -11596,670 +11758,6 @@
     }]
   }, {
     "name": {
-      "text": "Dev Resources",
-      "show": true
-    },
-    "collapse": false,
-    "toolbar": {
-      "size": 100,
-      "openAll": {
-        "show": false
-      },
-      "collapse": {
-        "show": true
-      }
-    },
-    "items": [{
-      "url": "https://dev.to/",
-      "display": {
-        "alignment": "center-center",
-        "direction": "vertical",
-        "order": "visual-name",
-        "rotate": 0,
-        "translate": {
-          "x": 0,
-          "y": 0
-        },
-        "gutter": 25,
-        "name": {
-          "show": true,
-          "text": "DEV Community",
-          "size": 7
-        },
-        "visual": {
-          "show": true,
-          "type": "image",
-          "size": 25,
-          "letter": {
-            "text": ""
-          },
-          "icon": {
-            "name": "",
-            "prefix": "",
-            "label": ""
-          },
-          "image": {
-            "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--lrmEcD2H--/c_limit,f_png,fl_progressive,q_80,w_128/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png"
-          },
-          "shadow": {
-            "size": 0
-          }
-        }
-      },
-      "accent": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        }
-      },
-      "color": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        },
-        "opacity": 25
-      },
-      "background": {
-        "show": false,
-        "type": "image",
-        "opacity": 100,
-        "image": {
-          "url": ""
-        },
-        "video": {
-          "url": ""
-        }
-      },
-      "border": 0,
-      "shape": {
-        "wide": false,
-        "tall": false
-      },
-      "timestamp": 1664037440923
-    }, {
-      "url": "https://blog.logrocket.com/",
-      "display": {
-        "alignment": "center-center",
-        "direction": "vertical",
-        "order": "visual-name",
-        "rotate": 0,
-        "translate": {
-          "x": 0,
-          "y": 0
-        },
-        "gutter": 25,
-        "name": {
-          "show": true,
-          "text": "LogRocket Blog",
-          "size": 7
-        },
-        "visual": {
-          "show": true,
-          "type": "image",
-          "size": 25,
-          "letter": {
-            "text": ""
-          },
-          "icon": {
-            "name": "",
-            "prefix": "",
-            "label": ""
-          },
-          "image": {
-            "url": "https://blog.logrocket.com/wp-content/uploads/2019/06/cropped-cropped-favicon-196x196.png?w=32"
-          },
-          "shadow": {
-            "size": 0
-          }
-        }
-      },
-      "accent": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        }
-      },
-      "color": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        },
-        "opacity": 25
-      },
-      "background": {
-        "show": false,
-        "type": "image",
-        "opacity": 100,
-        "image": {
-          "url": ""
-        },
-        "video": {
-          "url": ""
-        }
-      },
-      "border": 0,
-      "shape": {
-        "wide": false,
-        "tall": false
-      },
-      "timestamp": 1684080404660
-    }, {
-      "url": "https://www.robinwieruch.de/",
-      "display": {
-        "alignment": "center-center",
-        "direction": "vertical",
-        "order": "visual-name",
-        "rotate": 0,
-        "translate": {
-          "x": 0,
-          "y": 0
-        },
-        "gutter": 25,
-        "name": {
-          "show": true,
-          "text": "RWieruch",
-          "size": 7
-        },
-        "visual": {
-          "show": true,
-          "type": "image",
-          "size": 25,
-          "letter": {
-            "text": ""
-          },
-          "icon": {
-            "name": "",
-            "prefix": "",
-            "label": ""
-          },
-          "image": {
-            "url": "https://www.robinwieruch.de/favicon-32x32.png?v=9db82c76a9aaf54925ac42d41f3d384c"
-          },
-          "shadow": {
-            "size": 0
-          }
-        }
-      },
-      "accent": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        }
-      },
-      "color": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        },
-        "opacity": 25
-      },
-      "background": {
-        "show": false,
-        "type": "image",
-        "opacity": 100,
-        "image": {
-          "url": ""
-        },
-        "video": {
-          "url": ""
-        }
-      },
-      "border": 0,
-      "shape": {
-        "wide": false,
-        "tall": false
-      },
-      "timestamp": 1678936521268
-    }, {
-      "url": "https://css-beauty.vercel.app/loader",
-      "display": {
-        "alignment": "center-center",
-        "direction": "vertical",
-        "order": "visual-name",
-        "rotate": 0,
-        "translate": {
-          "x": 0,
-          "y": 0
-        },
-        "gutter": 25,
-        "name": {
-          "show": true,
-          "text": "CSS Beauty",
-          "size": 7
-        },
-        "visual": {
-          "show": true,
-          "type": "image",
-          "size": 25,
-          "letter": {
-            "text": ""
-          },
-          "icon": {
-            "name": "",
-            "prefix": "",
-            "label": ""
-          },
-          "image": {
-            "url": "https://css-beauty.vercel.app/favicon.png"
-          },
-          "shadow": {
-            "size": 0
-          }
-        }
-      },
-      "accent": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        }
-      },
-      "color": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        },
-        "opacity": 25
-      },
-      "background": {
-        "show": false,
-        "type": "image",
-        "opacity": 100,
-        "image": {
-          "url": ""
-        },
-        "video": {
-          "url": ""
-        }
-      },
-      "border": 0,
-      "shape": {
-        "wide": false,
-        "tall": false
-      },
-      "timestamp": 1672930765861
-    }, {
-      "url": "https://uiverse.io/all",
-      "display": {
-        "alignment": "center-center",
-        "direction": "vertical",
-        "order": "visual-name",
-        "rotate": 0,
-        "translate": {
-          "x": 0,
-          "y": 0
-        },
-        "gutter": 25,
-        "name": {
-          "show": true,
-          "text": "UIverse",
-          "size": 7
-        },
-        "visual": {
-          "show": true,
-          "type": "image",
-          "size": 25,
-          "letter": {
-            "text": ""
-          },
-          "icon": {
-            "name": "",
-            "prefix": "",
-            "label": ""
-          },
-          "image": {
-            "url": "https://uiverse.io/favicon-32x32.png"
-          },
-          "shadow": {
-            "size": 0
-          }
-        }
-      },
-      "accent": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        }
-      },
-      "color": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        },
-        "opacity": 25
-      },
-      "background": {
-        "show": false,
-        "type": "image",
-        "opacity": 100,
-        "image": {
-          "url": ""
-        },
-        "video": {
-          "url": ""
-        }
-      },
-      "border": 0,
-      "shape": {
-        "wide": false,
-        "tall": false
-      },
-      "timestamp": 1687264673131
-    }, {
-      "url": "https://doc.clickup.com/37465296/p/h/13qb6g-344/4690a29e7e403e6/13qb6g-344",
-      "display": {
-        "alignment": "center-center",
-        "direction": "vertical",
-        "order": "visual-name",
-        "rotate": 0,
-        "translate": {
-          "x": 0,
-          "y": 0
-        },
-        "gutter": 25,
-        "name": {
-          "show": true,
-          "text": "Developer's Handbook",
-          "size": 7
-        },
-        "visual": {
-          "show": true,
-          "type": "image",
-          "size": 25,
-          "letter": {
-            "text": ""
-          },
-          "icon": {
-            "name": "",
-            "prefix": "",
-            "label": ""
-          },
-          "image": {
-            "url": "https://app-cdn.clickup.com/assets/favicons/favicon-32x32.png"
-          },
-          "shadow": {
-            "size": 0
-          }
-        }
-      },
-      "accent": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        }
-      },
-      "color": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        },
-        "opacity": 25
-      },
-      "background": {
-        "show": false,
-        "type": "image",
-        "opacity": 100,
-        "image": {
-          "url": ""
-        },
-        "video": {
-          "url": ""
-        }
-      },
-      "border": 0,
-      "shape": {
-        "wide": false,
-        "tall": false
-      },
-      "timestamp": 1673676798404
-    }, {
-      "url": "https://www.colorion.co/",
-      "display": {
-        "alignment": "center-center",
-        "direction": "vertical",
-        "order": "visual-name",
-        "rotate": 0,
-        "translate": {
-          "x": 0,
-          "y": 0
-        },
-        "gutter": 25,
-        "name": {
-          "show": true,
-          "text": "Colorion",
-          "size": 7
-        },
-        "visual": {
-          "show": true,
-          "type": "image",
-          "size": 25,
-          "letter": {
-            "text": ""
-          },
-          "icon": {
-            "name": "",
-            "prefix": "",
-            "label": ""
-          },
-          "image": {
-            "url": "https://coolors.co/assets/img/favicon.png"
-          },
-          "shadow": {
-            "size": 0
-          }
-        }
-      },
-      "accent": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        }
-      },
-      "color": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        },
-        "opacity": 25
-      },
-      "background": {
-        "show": false,
-        "type": "image",
-        "opacity": 100,
-        "image": {
-          "url": ""
-        },
-        "video": {
-          "url": ""
-        }
-      },
-      "border": 0,
-      "shape": {
-        "wide": false,
-        "tall": false
-      },
-      "timestamp": 1670421569759
-    }, {
-      "url": "https://truedevtools.com/",
-      "display": {
-        "alignment": "center-center",
-        "direction": "vertical",
-        "order": "visual-name",
-        "rotate": 0,
-        "translate": {
-          "x": 0,
-          "y": 0
-        },
-        "gutter": 25,
-        "name": {
-          "show": true,
-          "text": "True Devtools",
-          "size": 7
-        },
-        "visual": {
-          "show": true,
-          "type": "image",
-          "size": 25,
-          "letter": {
-            "text": ""
-          },
-          "icon": {
-            "name": "500px",
-            "prefix": "fab",
-            "label": "500px"
-          },
-          "image": {
-            "url": "https://truedevtools.com/favicon.svg"
-          },
-          "shadow": {
-            "size": 0
-          }
-        }
-      },
-      "accent": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        }
-      },
-      "color": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        },
-        "opacity": 25
-      },
-      "background": {
-        "show": false,
-        "type": "image",
-        "opacity": 100,
-        "image": {
-          "url": ""
-        },
-        "video": {
-          "url": ""
-        }
-      },
-      "border": 0,
-      "shape": {
-        "wide": false,
-        "tall": false
-      },
-      "timestamp": 1714814653841
-    }]
-  }, {
-    "name": {
       "text": "Learning Sites",
       "show": true
     },
@@ -13017,6 +12515,670 @@
         "tall": false
       },
       "timestamp": 1643214497254
+    }]
+  }, {
+    "name": {
+      "text": "Dev Resources",
+      "show": true
+    },
+    "collapse": false,
+    "toolbar": {
+      "size": 100,
+      "openAll": {
+        "show": false
+      },
+      "collapse": {
+        "show": true
+      }
+    },
+    "items": [{
+      "url": "https://dev.to/",
+      "display": {
+        "alignment": "center-center",
+        "direction": "vertical",
+        "order": "visual-name",
+        "rotate": 0,
+        "translate": {
+          "x": 0,
+          "y": 0
+        },
+        "gutter": 25,
+        "name": {
+          "show": true,
+          "text": "DEV Community",
+          "size": 7
+        },
+        "visual": {
+          "show": true,
+          "type": "image",
+          "size": 25,
+          "letter": {
+            "text": ""
+          },
+          "icon": {
+            "name": "",
+            "prefix": "",
+            "label": ""
+          },
+          "image": {
+            "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--lrmEcD2H--/c_limit,f_png,fl_progressive,q_80,w_128/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png"
+          },
+          "shadow": {
+            "size": 0
+          }
+        }
+      },
+      "accent": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      "color": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "opacity": 25
+      },
+      "background": {
+        "show": false,
+        "type": "image",
+        "opacity": 100,
+        "image": {
+          "url": ""
+        },
+        "video": {
+          "url": ""
+        }
+      },
+      "border": 0,
+      "shape": {
+        "wide": false,
+        "tall": false
+      },
+      "timestamp": 1664037440923
+    }, {
+      "url": "https://blog.logrocket.com/",
+      "display": {
+        "alignment": "center-center",
+        "direction": "vertical",
+        "order": "visual-name",
+        "rotate": 0,
+        "translate": {
+          "x": 0,
+          "y": 0
+        },
+        "gutter": 25,
+        "name": {
+          "show": true,
+          "text": "LogRocket Blog",
+          "size": 7
+        },
+        "visual": {
+          "show": true,
+          "type": "image",
+          "size": 25,
+          "letter": {
+            "text": ""
+          },
+          "icon": {
+            "name": "",
+            "prefix": "",
+            "label": ""
+          },
+          "image": {
+            "url": "https://blog.logrocket.com/wp-content/uploads/2019/06/cropped-cropped-favicon-196x196.png?w=32"
+          },
+          "shadow": {
+            "size": 0
+          }
+        }
+      },
+      "accent": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      "color": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "opacity": 25
+      },
+      "background": {
+        "show": false,
+        "type": "image",
+        "opacity": 100,
+        "image": {
+          "url": ""
+        },
+        "video": {
+          "url": ""
+        }
+      },
+      "border": 0,
+      "shape": {
+        "wide": false,
+        "tall": false
+      },
+      "timestamp": 1684080404660
+    }, {
+      "url": "https://www.robinwieruch.de/",
+      "display": {
+        "alignment": "center-center",
+        "direction": "vertical",
+        "order": "visual-name",
+        "rotate": 0,
+        "translate": {
+          "x": 0,
+          "y": 0
+        },
+        "gutter": 25,
+        "name": {
+          "show": true,
+          "text": "RWieruch",
+          "size": 7
+        },
+        "visual": {
+          "show": true,
+          "type": "image",
+          "size": 25,
+          "letter": {
+            "text": ""
+          },
+          "icon": {
+            "name": "",
+            "prefix": "",
+            "label": ""
+          },
+          "image": {
+            "url": "https://www.robinwieruch.de/favicon-32x32.png?v=9db82c76a9aaf54925ac42d41f3d384c"
+          },
+          "shadow": {
+            "size": 0
+          }
+        }
+      },
+      "accent": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      "color": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "opacity": 25
+      },
+      "background": {
+        "show": false,
+        "type": "image",
+        "opacity": 100,
+        "image": {
+          "url": ""
+        },
+        "video": {
+          "url": ""
+        }
+      },
+      "border": 0,
+      "shape": {
+        "wide": false,
+        "tall": false
+      },
+      "timestamp": 1678936521268
+    }, {
+      "url": "https://css-beauty.vercel.app/loader",
+      "display": {
+        "alignment": "center-center",
+        "direction": "vertical",
+        "order": "visual-name",
+        "rotate": 0,
+        "translate": {
+          "x": 0,
+          "y": 0
+        },
+        "gutter": 25,
+        "name": {
+          "show": true,
+          "text": "CSS Beauty",
+          "size": 7
+        },
+        "visual": {
+          "show": true,
+          "type": "image",
+          "size": 25,
+          "letter": {
+            "text": ""
+          },
+          "icon": {
+            "name": "",
+            "prefix": "",
+            "label": ""
+          },
+          "image": {
+            "url": "https://css-beauty.vercel.app/favicon.png"
+          },
+          "shadow": {
+            "size": 0
+          }
+        }
+      },
+      "accent": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      "color": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "opacity": 25
+      },
+      "background": {
+        "show": false,
+        "type": "image",
+        "opacity": 100,
+        "image": {
+          "url": ""
+        },
+        "video": {
+          "url": ""
+        }
+      },
+      "border": 0,
+      "shape": {
+        "wide": false,
+        "tall": false
+      },
+      "timestamp": 1672930765861
+    }, {
+      "url": "https://uiverse.io/all",
+      "display": {
+        "alignment": "center-center",
+        "direction": "vertical",
+        "order": "visual-name",
+        "rotate": 0,
+        "translate": {
+          "x": 0,
+          "y": 0
+        },
+        "gutter": 25,
+        "name": {
+          "show": true,
+          "text": "UIverse",
+          "size": 7
+        },
+        "visual": {
+          "show": true,
+          "type": "image",
+          "size": 25,
+          "letter": {
+            "text": ""
+          },
+          "icon": {
+            "name": "",
+            "prefix": "",
+            "label": ""
+          },
+          "image": {
+            "url": "https://uiverse.io/favicon-32x32.png"
+          },
+          "shadow": {
+            "size": 0
+          }
+        }
+      },
+      "accent": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      "color": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "opacity": 25
+      },
+      "background": {
+        "show": false,
+        "type": "image",
+        "opacity": 100,
+        "image": {
+          "url": ""
+        },
+        "video": {
+          "url": ""
+        }
+      },
+      "border": 0,
+      "shape": {
+        "wide": false,
+        "tall": false
+      },
+      "timestamp": 1687264673131
+    }, {
+      "url": "https://doc.clickup.com/37465296/p/h/13qb6g-344/4690a29e7e403e6/13qb6g-344",
+      "display": {
+        "alignment": "center-center",
+        "direction": "vertical",
+        "order": "visual-name",
+        "rotate": 0,
+        "translate": {
+          "x": 0,
+          "y": 0
+        },
+        "gutter": 25,
+        "name": {
+          "show": true,
+          "text": "Developer's Handbook",
+          "size": 7
+        },
+        "visual": {
+          "show": true,
+          "type": "image",
+          "size": 25,
+          "letter": {
+            "text": ""
+          },
+          "icon": {
+            "name": "",
+            "prefix": "",
+            "label": ""
+          },
+          "image": {
+            "url": "https://app-cdn.clickup.com/assets/favicons/favicon-32x32.png"
+          },
+          "shadow": {
+            "size": 0
+          }
+        }
+      },
+      "accent": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      "color": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "opacity": 25
+      },
+      "background": {
+        "show": false,
+        "type": "image",
+        "opacity": 100,
+        "image": {
+          "url": ""
+        },
+        "video": {
+          "url": ""
+        }
+      },
+      "border": 0,
+      "shape": {
+        "wide": false,
+        "tall": false
+      },
+      "timestamp": 1673676798404
+    }, {
+      "url": "https://www.colorion.co/",
+      "display": {
+        "alignment": "center-center",
+        "direction": "vertical",
+        "order": "visual-name",
+        "rotate": 0,
+        "translate": {
+          "x": 0,
+          "y": 0
+        },
+        "gutter": 25,
+        "name": {
+          "show": true,
+          "text": "Colorion",
+          "size": 7
+        },
+        "visual": {
+          "show": true,
+          "type": "image",
+          "size": 25,
+          "letter": {
+            "text": ""
+          },
+          "icon": {
+            "name": "",
+            "prefix": "",
+            "label": ""
+          },
+          "image": {
+            "url": "https://coolors.co/assets/img/favicon.png"
+          },
+          "shadow": {
+            "size": 0
+          }
+        }
+      },
+      "accent": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      "color": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "opacity": 25
+      },
+      "background": {
+        "show": false,
+        "type": "image",
+        "opacity": 100,
+        "image": {
+          "url": ""
+        },
+        "video": {
+          "url": ""
+        }
+      },
+      "border": 0,
+      "shape": {
+        "wide": false,
+        "tall": false
+      },
+      "timestamp": 1670421569759
+    }, {
+      "url": "https://truedevtools.com/",
+      "display": {
+        "alignment": "center-center",
+        "direction": "vertical",
+        "order": "visual-name",
+        "rotate": 0,
+        "translate": {
+          "x": 0,
+          "y": 0
+        },
+        "gutter": 25,
+        "name": {
+          "show": true,
+          "text": "True Devtools",
+          "size": 7
+        },
+        "visual": {
+          "show": true,
+          "type": "image",
+          "size": 25,
+          "letter": {
+            "text": ""
+          },
+          "icon": {
+            "name": "500px",
+            "prefix": "fab",
+            "label": "500px"
+          },
+          "image": {
+            "url": "https://truedevtools.com/favicon.svg"
+          },
+          "shadow": {
+            "size": 0
+          }
+        }
+      },
+      "accent": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      "color": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "opacity": 25
+      },
+      "background": {
+        "show": false,
+        "type": "image",
+        "opacity": 100,
+        "image": {
+          "url": ""
+        },
+        "video": {
+          "url": ""
+        }
+      },
+      "border": 0,
+      "shape": {
+        "wide": false,
+        "tall": false
+      },
+      "timestamp": 1714814653841
     }]
   }, {
     "name": {
