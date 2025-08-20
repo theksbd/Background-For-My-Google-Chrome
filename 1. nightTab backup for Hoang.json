@@ -10701,7 +10701,7 @@
             "label": ""
           },
           "image": {
-            "url": "https://www.rophim.me/favicon.ico"
+            "url": "https://www.rophim.me/images/favicon.ico?v=0.1"
           },
           "shadow": {
             "size": 0
@@ -12561,7 +12561,7 @@
             "label": ""
           },
           "image": {
-            "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--lrmEcD2H--/c_limit,f_png,fl_progressive,q_80,w_128/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png"
+            "url": "https://media2.dev.to/dynamic/image/width=32,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png"
           },
           "shadow": {
             "size": 0
