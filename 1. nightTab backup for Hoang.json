@@ -124,7 +124,7 @@
         "size": 100,
         "newLine": false,
         "newTab": true,
-        "string": ""
+        "string": "https://www.threads.com/"
       },
       "order": ["greeting", "clock", "date", "search", "toolbar"],
       "edit": false
@@ -10591,168 +10591,6 @@
       },
       "timestamp": 1754826618846
     }, {
-      "url": "https://robong.cc/truc-tiep",
-      "display": {
-        "alignment": "center-center",
-        "direction": "vertical",
-        "order": "visual-name",
-        "rotate": 0,
-        "translate": {
-          "x": 0,
-          "y": 0
-        },
-        "gutter": 25,
-        "name": {
-          "show": true,
-          "text": "RoBong",
-          "size": 7
-        },
-        "visual": {
-          "show": true,
-          "type": "image",
-          "size": 25,
-          "letter": {
-            "text": ""
-          },
-          "icon": {
-            "name": "",
-            "prefix": "",
-            "label": ""
-          },
-          "image": {
-            "url": "https://robong.cc/images/favicon.png"
-          },
-          "shadow": {
-            "size": 0
-          }
-        }
-      },
-      "accent": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        }
-      },
-      "color": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        },
-        "opacity": 25
-      },
-      "background": {
-        "show": false,
-        "type": "image",
-        "opacity": 100,
-        "image": {
-          "url": ""
-        },
-        "video": {
-          "url": ""
-        }
-      },
-      "border": 0,
-      "shape": {
-        "wide": false,
-        "tall": false
-      },
-      "timestamp": 1759372132852
-    }, {
-      "url": "https://www.rophim.moi/phimhay",
-      "display": {
-        "alignment": "center-center",
-        "direction": "vertical",
-        "order": "visual-name",
-        "rotate": 0,
-        "translate": {
-          "x": 0,
-          "y": 0
-        },
-        "gutter": 25,
-        "name": {
-          "show": true,
-          "text": "RoPhim",
-          "size": 7
-        },
-        "visual": {
-          "show": true,
-          "type": "image",
-          "size": 25,
-          "letter": {
-            "text": ""
-          },
-          "icon": {
-            "name": "",
-            "prefix": "",
-            "label": ""
-          },
-          "image": {
-            "url": "https://www.rophim.moi/images/favicon.ico?v=0.1"
-          },
-          "shadow": {
-            "size": 0
-          }
-        }
-      },
-      "accent": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        }
-      },
-      "color": {
-        "by": "theme",
-        "hsl": {
-          "h": 0,
-          "s": 0,
-          "l": 0
-        },
-        "rgb": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        },
-        "opacity": 25
-      },
-      "background": {
-        "show": false,
-        "type": "image",
-        "opacity": 100,
-        "image": {
-          "url": ""
-        },
-        "video": {
-          "url": ""
-        }
-      },
-      "border": 0,
-      "shape": {
-        "wide": false,
-        "tall": false
-      },
-      "timestamp": 1742537734166
-    }, {
       "url": "https://bluphim5.com/",
       "display": {
         "alignment": "center-center",
@@ -12804,7 +12642,7 @@
             "label": ""
           },
           "image": {
-            "url": "https://www.robinwieruch.de/favicon-32x32.png?v=9db82c76a9aaf54925ac42d41f3d384c"
+            "url": "https://www.robinwieruch.de/favicon/favicon.svg"
           },
           "shadow": {
             "size": 0
