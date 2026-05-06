@@ -11380,7 +11380,7 @@
             "label": ""
           },
           "image": {
-            "url": "https://claude.ai/images/claude_app_icon.png"
+            "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c129d018a-jJjJELY8.png"
           },
           "shadow": {
             "size": 0
@@ -11542,7 +11542,7 @@
             "label": ""
           },
           "image": {
-            "url": "https://quillbot.com/favicon.png"
+            "url": "https://quillbot.com/pre-rebrand/favicon.ico"
           },
           "shadow": {
             "size": 0
@@ -13762,6 +13762,87 @@
         "tall": false
       },
       "timestamp": 1643215463372
+    }, {
+      "url": "https://gamepciso.com/",
+      "display": {
+        "alignment": "center-center",
+        "direction": "vertical",
+        "order": "visual-name",
+        "rotate": 0,
+        "translate": {
+          "x": 0,
+          "y": 0
+        },
+        "gutter": 25,
+        "name": {
+          "show": true,
+          "text": "GamePCISO",
+          "size": 7
+        },
+        "visual": {
+          "show": true,
+          "type": "image",
+          "size": 25,
+          "letter": {
+            "text": ""
+          },
+          "icon": {
+            "name": "",
+            "prefix": "",
+            "label": ""
+          },
+          "image": {
+            "url": "https://gamepciso.com/wp-content/uploads/2015/06/media-86470.png"
+          },
+          "shadow": {
+            "size": 0
+          }
+        }
+      },
+      "accent": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      "color": {
+        "by": "theme",
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "opacity": 25
+      },
+      "background": {
+        "show": false,
+        "type": "image",
+        "opacity": 100,
+        "image": {
+          "url": ""
+        },
+        "video": {
+          "url": ""
+        }
+      },
+      "border": 0,
+      "shape": {
+        "wide": false,
+        "tall": false
+      },
+      "timestamp": 1778048592902
     }, {
       "url": "https://elamigos.site/",
       "display": {
